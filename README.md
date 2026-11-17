@@ -92,13 +92,13 @@ The project follows a simple desktop-application structure: Swing screens for th
 |:---:|:---:|
 | ![Login](screenshots/login.png) | ![Dashboard](screenshots/dashboard.png) |
 
-|                   My Certificates                   |                  Add Certificate                   |
-|:---------------------------------------------------:|:--------------------------------------------------:|
-| ![My Certificates](screenshots/ViewCertificate.png) | ![Add Certificate](screenshots/AddCertificate.png) |
+|                  Sign Up                   |                  Add Certificate                   |
+|:------------------------------------------:|:--------------------------------------------------:|
+| ![My Certificates](screenshots/signup.png) | ![Add Certificate](screenshots/AddCertificate.png) |
 
-|                   Edit Certificate                    |              Forgot Password               |
+|                   View Certificate                    |              Forgot Password               |
 |:-----------------------------------------------------:|:------------------------------------------:|
-| ![Edit Certificate](screenshots/EditCertificates.png) | ![Forgot Password](screenshots/Forgot.png) |
+| ![Edit Certificate](screenshots/ViewCertificates.png) | ![Forgot Password](screenshots/Forgot.png) |
 
 ---
 
